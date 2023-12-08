@@ -1,7 +1,7 @@
 # Site settings
-title: RootedLABs
+title: "RootedLABs"
 email:
-description: Decentralized Food, For Everyone
+description: "Decentralized Food, For Everyone"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
