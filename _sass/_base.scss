@@ -6,6 +6,7 @@ body {
 
 body {
     @include serif-font;
+    font-family: 'Lucida Console', 'Lucida Sans Unicode';
 }
 
 hr {
@@ -34,6 +35,7 @@ h4,
 h5,
 h6 {
     @include sans-serif-font;
+    font-family: 'Lucida Console', 'Lucida Sans Unicode';
 }
 
 p {

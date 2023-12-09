@@ -4,14 +4,14 @@
 @charset "utf-8";
 
 // Example Defaults
-// $base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Lucida Console", "Courier New", monospace;
 // $base-font-size:   16px;
 // $small-font-size:  $base-font-size * 0.875;
 // $base-line-height: 1.5;
 
 // $spacing-unit:     30px;
 
-// $text-color:       #111;
+$text-color:       #111;
 // $background-color: #fdfdfd;
 // $brand-color:      #2a7ae2;
 
@@ -34,7 +34,7 @@
 // }
 
 // variables.less
-$theme-primary: #F05F40;
+$theme-primary: #67fddd;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
